@@ -9,7 +9,7 @@
           class="footer-logo"
         />
         <p>
-          
+          VIỆN KIỂM SÁT NHÂN DÂN THÀNH PHỐ CẦN THƠ
         </p>
       </div>
 
