@@ -9,7 +9,7 @@
           class="footer-logo"
         />
         <p>
-          Ứng dụng công nghệ thông tin trong quản lý, điều hành và cải cách tư pháp.
+          
         </p>
       </div>
 

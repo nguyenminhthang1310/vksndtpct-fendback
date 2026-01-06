@@ -14,7 +14,7 @@
 
     <!-- Thanh phía dưới -->
     <div class="header-nav">
-      <h5>TRANG PHẢN ÁNH</h5>
+      <h5>TRANG TIẾP NHẬN THÔNG TIN</h5>
     </div>
   </header>
 </template>
