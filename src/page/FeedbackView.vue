@@ -117,6 +117,7 @@ const loading = ref(false);
 
 // Gửi câu hỏi
 const sendFeedback = async () => {
+  console.log("BASE URL =", api.defaults.baseURL);
   if (!form.value.message.trim()) return alert("⚠️ Vui lòng nhập nội dung câu hỏi!");
   try {
     await api.post("/feedbacks", form.value);
