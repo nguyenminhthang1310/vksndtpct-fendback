@@ -137,6 +137,7 @@ const fetchFeedbacks = async () => {
       .filter(fb => fb.visible)
       .sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt))
       .slice(0, 10);
+
   } catch (err) {
     console.error(err);
   }
