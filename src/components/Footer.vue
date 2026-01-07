@@ -17,8 +17,8 @@
       <div class="footer-col">
         <h4>Liên kết nhanh</h4>
         <ul>
-          <li><a href="#">Trang chủ</a></li>
-          <li><a href="#">Giới thiệu</a></li>
+          <li><a href="https://vienkiemsat.cantho.gov.vn/">Trang chủ</a></li>
+          <li><a href="https://vienkiemsat.cantho.gov.vn/lich-su-hinh-thanh-va-phat-trien-cua-vien-kiem-sat-nhan-dan-thanh-pho-can-tho">Giới thiệu</a></li>
         </ul>
       </div>
 
@@ -28,17 +28,17 @@
         <p>📍Số 19, Phường An Bình, TP Cần Thơ, Việt Nam</p>
         <p>
           📧
-          <a href="mailto:totungcongich_cantho@vks.gov.vn">
-            totungcongich_cantho@vks.gov.vn
+          <a href="mailto:vienkiemsat@cantho.gov.vn">
+            vienkiemsat@cantho.gov.vn
           </a>
         </p>
-        <p>☎ 0292.xxx.xxxx</p>
+        <p>☎ 02923820590</p>
       </div>
     </div>
 
     <!-- Copyright -->
     <div class="footer-bottom">
-      © {{ new Date().getFullYear() }} Viện kiểm sát nhân dân TP. Cần Thơ.  
+      © 2026 Trang phản hồi thông tin Viện kiểm sát nhân dân TP. Cần Thơ.  
       Phát triển bởi Bộ phận CNTT.
     </div>
   </footer>
