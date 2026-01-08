@@ -7,7 +7,8 @@
       <div class="header-content">
         <img src="../assets/logo.png" alt="Logo" class="logo" />
         <h2 class="vks-title">
-          VIỆN KIỂM SÁT NHÂN DÂN THÀNH PHỐ CẦN THƠ
+          VIỆN KIỂM SÁT NHÂN DÂN <br> 
+          THÀNH PHỐ CẦN THƠ
         </h2>
       </div>
     </div>
@@ -60,8 +61,8 @@
 
 /* Tiêu đề chính */
 .vks-title {
-  font-weight: 700;
-  font-size: 48px;
+  font-weight: 600;
+  font-size: 42px;
   color: #e94040;
 }
 
